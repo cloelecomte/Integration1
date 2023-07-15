@@ -1,0 +1,27 @@
+/* Header */
+
+nav,
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li a {
+    color: #020202;
+}
+
+#navbutton {
+    background-color: white;
+    border-color: #722ed1;
+    border-radius: 23px;
+    border-width: 1px;
+    width: 142px;
+    height: 38px;
+    color: #722ed1;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Body */
